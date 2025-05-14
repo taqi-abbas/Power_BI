@@ -1,6 +1,5 @@
 # PowerBI_Project
 Analyse E-Commerce Sales data created interactive dashboard using Power BI.  
-Analyse E-Commerce Sales data created interactive dashboard using Power BI.                  Nov/2024 
 
 •     Created an interactive dashboard to track and analyze online sales data. 
 
